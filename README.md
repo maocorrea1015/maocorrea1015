@@ -65,7 +65,7 @@ Un proyecto de **Internet de las Cosas (IoT)** utilizando **Arduino** y **ESP32*
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=maocorrea1015&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
 
 ## 📫 Conéctame
 
