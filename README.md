@@ -399,24 +399,9 @@ Artificial Intelligence
 ---
 
 # GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maocorrea1015&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F5FF&icon_color=7B2FFF&text_color=FFFFFF"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maocorrea1015&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
-
-</div>
-
----
-
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maocorrea1015&bg_color=0D1117&color=00F5FF&line=7B2FFF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github.com/maocorrea1015.png" width="150">
+</p>
 
 ---
 
